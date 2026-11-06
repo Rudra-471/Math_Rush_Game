@@ -1,0 +1,10 @@
+{
+  "name": "Math Rush 3D",
+  "short_name": "Math Rush",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#1c2333",
+  "theme_color": "#1c2333",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
